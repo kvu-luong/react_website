@@ -1,0 +1,10 @@
+.section1{
+    height: 550px;
+    overflow: hidden;
+}
+.over{
+    z-index: 1;
+}
+.over input {
+    width: 137px;
+}
